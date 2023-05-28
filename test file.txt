@@ -1,1 +1,1 @@
-Changed first line on master after feature commits.
+Clean master.
