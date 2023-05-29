@@ -1,1 +1,5 @@
 Change on master after feature.
+
+Feature 1.
+
+Feature 2.
